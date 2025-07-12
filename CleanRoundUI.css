@@ -1,0 +1,26 @@
+/**
+ * CleanRoundUI
+ * @author AcheronX
+ * @description Clean Round UI to fit theme
+ * @version 1
+ * @source https://github.com/Gg2jdjdjdwi
+ */
+
+ /* 🎨 Rounded edges & clip overflow */
+.container__7d20c {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* 🎨 Slightly rounded & clip overflow for Active Now DM container */
+.container__9293f {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* 🚫 Remove background, hide overlay */
+div.children__9293f.showToolbar__9293f::after {
+  background-color: transparent !important;
+  opacity: 0 !important;
+  content: none !important;
+}
