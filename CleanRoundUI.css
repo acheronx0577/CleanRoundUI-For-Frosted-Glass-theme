@@ -26,7 +26,7 @@ div.children__9293f.showToolbar__9293f::after {
   content: none !important;
 }
 
-/* Menu container styling 🖍️ */  
+/* 🖍️ Menu container styling */  
 div[class*="menu_"][role="menu"] {  
     border: 1px solid var(--background-modifier-accent);  
     border-radius: 8px;  
