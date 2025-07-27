@@ -12,6 +12,10 @@
 
 ---
 
+<img width="341" height="392" alt="Screenshot 2025-07-27 115722" src="https://github.com/user-attachments/assets/e7d9a58e-6be2-41ed-92a9-a46d4ea74a0c" />
+
+---
+
 # After:
 
 <img width="97" height="61" alt="image" src="https://github.com/user-attachments/assets/741dd657-a205-47e8-a8cf-351fad5d6352" />
@@ -23,6 +27,10 @@
 ---
 
 <img width="194" height="74" alt="image" src="https://github.com/user-attachments/assets/fb4f0096-2eb3-49a2-9789-52b3309d4f00" />
+
+---
+
+<img width="320" height="395" alt="Screenshot 2025-07-27 115715" src="https://github.com/user-attachments/assets/336e27e7-083a-4c83-a20b-e9a7320dcce2" />
 
 ---
 
