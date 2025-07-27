@@ -25,3 +25,11 @@ div.children__9293f.showToolbar__9293f::after {
   opacity: 0 !important;
   content: none !important;
 }
+
+/* Menu container styling 🖍️ */  
+div[class*="menu_"][role="menu"] {  
+    border: 1px solid var(--background-modifier-accent);  
+    border-radius: 8px;  
+    overflow: hidden;  
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);  
+}  
